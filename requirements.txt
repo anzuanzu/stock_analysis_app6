@@ -1,0 +1,15 @@
+pandas
+numpy
+streamlit
+openpyxl
+gunicorn
+yfinance
+xlsxwriter
+io
+reportlab
+
+
+
+
+
+
